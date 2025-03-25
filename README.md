@@ -1,7 +1,7 @@
 # about-me-page
 
 ## Description
-This is a simple HTML project that introduces who I am, my interests, and a few of my favorite links.
+This HTML project will introduce who I am, my current interests, and some of my current favorite links.
 
 ## Author
 Kari Mckinney - [GitHub Profile](https://github.com/KariMckinney)
